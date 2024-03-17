@@ -1,0 +1,22 @@
+.card-container {
+  margin-bottom: .625rem;
+  background-color: #f6f2f2;
+ 
+
+  &__leftalign {
+    text-align: left;
+  }
+
+  &__rightalign {
+    text-align: right;
+  }
+
+  &__comment {
+    margin-bottom: .3125rem;
+  }
+
+  &__title {
+    font-size:large;
+    font-weight: 600;
+  }
+}
